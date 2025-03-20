@@ -1,4 +1,4 @@
-class // Classes no JS
+// Classes no JS
 
 class Carro {
   // Nome de classes devem iniciar com a primeira letra maiuscula
